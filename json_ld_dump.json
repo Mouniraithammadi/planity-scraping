@@ -1,0 +1,428 @@
+{
+  "@context": "https://schema.org",
+  "@type": "HealthAndBeautyBusiness",
+  "name": "ADIVINANGE - L'Atelier Coiffure  : Trets",
+  "description": "Situé au cœur de Trets, dans la galerie marchande de Carrefour Market Trets, Le salon de Coiffure Adivinange Coiffure Mixte (Hommes Femmes & Enfants), est un véritable havre de beauté et de bien-être pour vos cheveux. Avec une équipe de collaborateurs passionnés, ce salon aux prestations variées vous offre une expérience de coiffure unique. Que vous envisagiez des mèches, un balayage, une coupe homme ou femme, une coloration, une permanente ou un simple brushing, vous y trouverez votre bonheur. Adivinange Coiffure est aussi spécialiste du soin des cheveux, pour renforcer, nourrir et sublimer votre chevelure. Afin de vous accueillir, un cadre lumineux, contemporain et urbain a été pensé, une ambiance accueillante et conviviale est au rendez-vous avec une note de bonne humeur garantie. En choisissant Adivinange L'Atelier Coiffure, vous faites le choix de la qualité, du savoir-faire et de l'expertise pour un résultat à la hauteur de vos attentes. Confiez votre tête à ce salon de coiffure emblématique de Trets, vous ne serez pas déçu !",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "ZA la Burlière Centre Commercial Carrefour Market",
+    "addressLocality": "Trets",
+    "postalCode": "13530",
+    "addressCountry": "FR"
+  },
+  "review": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-08-13",
+      "reviewBody": "Océane est superbe ! Plein de bons conseils, écoute quand on dit « ne coupez pas trop » à réussi à faire un super brushing sur mes cheveux frisés/crépus. Salon très propre !",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-08-11",
+      "reviewBody": "Rien a dire parfait",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-08-10",
+      "reviewBody": "La jeune fille était très bien très appliquée",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 4.75
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-08-08",
+      "reviewBody": "Jeune femme très accueillante.\nJe reviendrai avec plaisir.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-07-05",
+      "reviewBody": "Parfait",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 4.5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-07-04",
+      "reviewBody": "Super comme d’habitude",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-06-21",
+      "reviewBody": "RV rapide ,amabilité,  Bonne prestation....super !",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-06-19",
+      "reviewBody": "Coiffeuse très gentille et professionnelle, à l'écoute",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-05-25",
+      "reviewBody": "Top",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-05-20",
+      "reviewBody": "Très bien 👍",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-05-01",
+      "reviewBody": "Comme d'habitude, excellent accueil, Sylvain toujours très pro, souriant et aux petits soins... je recommande ce salon.",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-04-21",
+      "reviewBody": "Rien à dire 👍",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-03-31",
+      "reviewBody": "le meilleur coiffeur de Trets",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-03-21",
+      "reviewBody": "Très bien",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-02-26",
+      "reviewBody": "Miss est égale à elle même souriante chaleureuse et professionnelle. La coupe est parfaite à chaque fois rien à dire. Merci à toi et au plaisir",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 4.5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-02-21",
+      "reviewBody": "Océane est top",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-02-13",
+      "reviewBody": "A la prochaine je adore",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-02-05",
+      "reviewBody": "Parfait sans attente malgré des évènements inattendus !",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-02-01",
+      "reviewBody": "Je suis satisfaite de ma coupe et le prix. Sylvain est très sympathique, et pro. Merci",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Anonyme"
+      },
+      "datePublished": "2026-01-22",
+      "reviewBody": "Contente de ma coupe , Sylvain est très gentil . Contente de ma prestation",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingValue": 4.5
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Planity",
+        "url": "https://www.planity.com"
+      }
+    }
+  ],
+  "telephone": "+33760603594",
+  "url": "https://www.planity.com/adivinange-latelier-coiffure-trets-13530",
+  "image": "https://res.cloudinary.com/planity/image/upload/q_auto,f_auto/fdqmmnvvk1qlpxg6sdzc",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 43.45180006087817,
+    "longitude": 5.678956464595792
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": 4.84,
+    "reviewCount": 88
+  }
+}
