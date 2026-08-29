@@ -26,14 +26,15 @@ Ce projet permet de scraper automatiquement l'ensemble des salons **Coiffeurs & 
 | [planity_resultats.csv](file:///c:/Users/hp/Desktop/axel/planity_resultats.csv) | Export CSV UTF-8 avec BOM (Excel/Google Sheets) |
 | [planity_resultats.xlsx](file:///c:/Users/hp/Desktop/axel/planity_resultats.xlsx) | Classeur Excel propre prêt à l'emploi |
 | [planity_urls.txt](file:///c:/Users/hp/Desktop/axel/planity_urls.txt) | Index des URLs d'établissements Planity |
+| [requirements.txt](file:///c:/Users/hp/Desktop/axel/requirements.txt) | Liste des dépendances Python à installer |
 
 ---
 
 ## 🚀 Utilisation sur Serveur
 
-### 1. Installation des dépendances (Linux/Windows Server)
+### 1. Installation des dépendances
 ```bash
-pip install aiohttp beautifulsoup4 pandas openpyxl
+pip install -r requirements.txt
 ```
 
 ### 2. Exécution du scraper complet (53 961 Coiffeurs)
